@@ -1,0 +1,3 @@
+Download and save the 'wordlist.txt' in the current directory and then rub bruteforce.py
+Running the python script bruteforce.py gave the flag as:  flag{b1n42y_s3r2ch_f7w}
+The correct password found was penniless

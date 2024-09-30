@@ -1,0 +1,1 @@
+Running the python script sudoku.py gave the flag as: flag{f34r1355_5ud0ku_c0nqu3r0r} after 420 games played.

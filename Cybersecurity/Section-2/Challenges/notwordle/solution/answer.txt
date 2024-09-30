@@ -1,0 +1,2 @@
+Running the python script notwordle.py gave the flag as: flag{pr377y_5u23_7h15_15_n07_w0rd13}
+The correct password found was: pr377y_5u23_7h15_15_n07_w0rd13

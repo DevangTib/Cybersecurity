@@ -1,0 +1,3 @@
+1. Extracted the contents of chall1.7z manually which needed no password and gave enc_pass file and files.zip folder.
+2. Executed the bash script.
+3. After unzipping nearly 170 files, the bash script completed execution and returned the flag as: flag{uwu_y05_ha5_ac7ua11y_5ta7te6}
